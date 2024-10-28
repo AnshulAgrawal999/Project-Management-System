@@ -1,0 +1,14 @@
+.task {
+  padding: 12px;
+  background-color: #f0f0f0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.task:hover {
+  background-color: #e0e0e0;
+}
+.completed {
+  text-decoration: line-through;
+  color: #999;
+}
